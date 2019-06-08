@@ -1,0 +1,10 @@
+git@code.aliyun.com:repairProject/repairEngineer.git
+
+
+
+初始化一个仓库
+git init 
+
+将文件添加到git仓库
+git add <file>
+git commit -m "<message>"
