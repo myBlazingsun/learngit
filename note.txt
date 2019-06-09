@@ -8,3 +8,6 @@ git init
 将文件添加到git仓库
 git add <file>
 git commit -m "<message>"
+
+获取未入库文件详情
+git status
