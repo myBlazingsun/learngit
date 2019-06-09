@@ -1,7 +1,6 @@
 git@code.aliyun.com:repairProject/repairEngineer.git
 
 
-
 初始化一个仓库
 git init 
 
@@ -11,3 +10,6 @@ git commit -m "<message>"
 
 获取未入库文件详情
 git status
+
+查看修改内容
+git diff
