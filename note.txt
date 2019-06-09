@@ -20,3 +20,6 @@ Git is free software distributed under the GPL.//测试
 
 Git has a mutable index called stage.
 Git tracks changes.
+
+
+git rm test.txt
